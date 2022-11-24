@@ -1,2 +1,4 @@
 # python-cheat-sheet
-Cheat sheet for Python 
+
+Python cheat sheet & projects
+
